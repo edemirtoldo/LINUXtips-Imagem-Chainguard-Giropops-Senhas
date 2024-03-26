@@ -1,6 +1,6 @@
 # LINUXtips-Imagem-Chainguard-Giropops-Senhas
 
-Repo com o desafio Day3 utlizando imagens da Chainguard
+Repo com o Desafio Day3 do PICK 2024, utilizando imagens da Chainguard
 
 Utilizamos para o desafio a aplicação Giropops-Senhas
 
