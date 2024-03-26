@@ -41,4 +41,10 @@ docker run -d --name redis-server --network app_network edemirtoldo/redis-server
 docker run -itd --rm -p 5000:5000 --network app_network --name app edemirtoldo/edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
 ```
 
+Acessar o link:
+http://localhost:5000/
+
+![Logo da Minha Aplicação](https://raw.githubusercontent.com/seuusuario/seurepositorio/master/logo.png)
+
+
 
