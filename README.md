@@ -33,7 +33,7 @@ trivy image edemirtoldo/redis-server:1.0
 
 Verificando a imagem da aplicação.
 ```bash
-trivy image edemirtoldo/edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
+trivy image edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
 ```
 
 ![trivy2](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/2.png)
