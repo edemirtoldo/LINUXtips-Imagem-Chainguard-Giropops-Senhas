@@ -15,7 +15,7 @@ docker build -t edemirtoldo/redis-server:1.0 -f Dockerfile.redis .
 Build da imagem da aplicação
 
 ```bash
-docker build -t edemirtoldo/edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0 -f Dockerfile.app .
+docker build -t edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0 -f Dockerfile.app .
 ```
 
 Trivy é uma ferramenta de segurança de código aberto usada para detectar vulnerabilidades em contêineres e imagens de contêineres. Ele verifica imagens de contêineres em busca de pacotes vulneráveis, bibliotecas desatualizadas e outras ameaças de segurança conhecidas.
