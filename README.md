@@ -44,7 +44,8 @@ docker run -itd --rm -p 5000:5000 --network app_network --name app edemirtoldo/e
 Acessar o link:
 http://localhost:5000/
 
-![Logo da Minha Aplicação](https://raw.githubusercontent.com/seuusuario/seurepositorio/master/logo.png)
+![Logo da Minha Aplicação](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/3.png)
+
 
 
 
