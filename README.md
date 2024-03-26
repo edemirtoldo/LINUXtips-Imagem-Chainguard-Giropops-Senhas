@@ -36,6 +36,8 @@ Verificando a imagem da aplicação.
 trivy image edemirtoldo/edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
 ```
 
+![trivy2](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/2.png)
+
 Agora que temos certeza que as imagens são seguras vamos executar a aplicação. 
 
 ```bash
