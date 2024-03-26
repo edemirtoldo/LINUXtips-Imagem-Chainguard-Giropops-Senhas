@@ -43,7 +43,7 @@ Agora que temos certeza que as imagens são seguras vamos executar a aplicação
 ```bash
 docker network create app_network
 docker run -d --name redis-server --network app_network edemirtoldo/redis-server:1.0
-docker run -itd -p 5000:5000 --network app_network --name app edemirtoldo/edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
+docker run -itd -p 5000:5000 --network app_network --name app edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
 ```
 
 Acessar o link:
