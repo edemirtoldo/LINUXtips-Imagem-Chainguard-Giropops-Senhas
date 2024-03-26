@@ -28,6 +28,9 @@ Verificando a imagem do redis.
 trivy image edemirtoldo/redis-server:1.0
 ```
 
+![trivy1](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/1.png)
+
+
 Verificando a imagem da aplicação.
 ```bash
 trivy image edemirtoldo/edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
@@ -44,7 +47,7 @@ docker run -itd --rm -p 5000:5000 --network app_network --name app edemirtoldo/e
 Acessar o link:
 http://localhost:5000/
 
-![Logo da Minha Aplicação](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/3.png)
+![Localhost](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/3.png)
 
 
 
