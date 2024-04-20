@@ -6,7 +6,6 @@ Utilizamos para o desafio a aplicação Giropops-Senhas
 
 https://github.com/badtuxx/Giropops-Senhas
 
-
 Build da imagem do Redis 
 ```bash
 docker build -t edemirtoldo/redis-server:1.0 -f Dockerfile.redis .
@@ -30,7 +29,6 @@ trivy image edemirtoldo/redis-server:1.0
 
 ![trivy1](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/1.png)
 
-
 Verificando a imagem da aplicação.
 ```bash
 trivy image edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0
@@ -50,7 +48,4 @@ Acessar o link:
 http://localhost:5000/
 
 ![Localhost](https://github.com/edemirtoldo/LINUXtips-Imagem-Chainguard-Giropops-Senhas/blob/main/pictures/3.png)
-
-
-
 
