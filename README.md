@@ -1,17 +1,17 @@
 # LINUXtips-Imagem-Chainguard-Giropops-Senhas
 
-Repo com o Desafio Day3 do PICK 2024, utilizando imagens da Chainguard
+Repo com o Desafio Day3 do PICK 2024, utilizando imagens da Chainguard.
 
-Utilizamos para o desafio a aplicação Giropops-Senhas
+Utilizamos para o desafio a aplicação Giropops-Senhas.
 
 https://github.com/badtuxx/Giropops-Senhas
 
-Build da imagem do Redis 
+Build da imagem do Redis.
 ```bash
 docker build -t edemirtoldo/redis-server:1.0 -f Dockerfile.redis .
 ```
 
-Build da imagem da aplicação
+Build da imagem da aplicação.
 
 ```bash
 docker build -t edemirtoldo/linuxtips-imagem-chainguard-giropops-senhas:1.0 -f Dockerfile.app .
